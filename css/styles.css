@@ -118,9 +118,3 @@ body {
   margin: 20px 20px 50px;
 }
 
-.card {
-  /* display: flex; */
-  margin-right: 0.01px;
-  column-gap: 10px;
-  row-gap: 10px;
-}
